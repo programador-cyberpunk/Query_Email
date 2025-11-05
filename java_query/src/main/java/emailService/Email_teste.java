@@ -7,7 +7,7 @@ import io.mailtrap.model.request.emails.Address;
 import io.mailtrap.model.request.emails.MailtrapMail;
 
 import java.util.List;
-
+//baixei as bibliotecas de java pra rodar,agora vc se vire ai pra implementa-las
 public class Email_teste {
 	
 	private static final String TOKEN = "9413ac7fb4bd5565ff2880778ae77461";
